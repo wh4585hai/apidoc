@@ -1,0 +1,15 @@
+{
+  "name": "apidoc-login-app",
+  "version": "0.1.0",
+  "description": "apiDoc login project",
+  "title": "login apiDoc",
+  "url": "https://domain/mobile-api-portlet/services",
+  "order": [
+    "GetUser",
+    "PostUser"
+  ],
+  "template": {
+    "withCompare": true,
+    "withGenerator": true
+  }
+}
